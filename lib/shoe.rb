@@ -8,6 +8,14 @@ class Shoe
     @brand
   end
   
+  def color
+    @color
+  end
+  
+  def size
+    @size
+  end
+  
   def brand=(new_brand)
     @brand=new_brand
   end
