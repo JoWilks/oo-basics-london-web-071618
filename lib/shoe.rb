@@ -5,6 +5,6 @@ class Shoe
   end
   
   def brand=(new_brand)
-    @brand=new_author
+    @brand=new_brand
   end
   
