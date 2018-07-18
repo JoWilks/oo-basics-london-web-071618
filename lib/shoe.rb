@@ -36,8 +36,8 @@ class Shoe
     @size=new_size
   end
 
-  def material=(new_size)
-    @size=new_size
+  def material=(new_material)
+    @material=new_material
   end
 
 end
