@@ -4,6 +4,10 @@ class Shoe
     @brand = brand
   end
   
+  def brand
+    @brand
+  end
+  
   def brand=(new_brand)
     @brand=new_brand
   end
@@ -12,5 +16,8 @@ class Shoe
     @color=new_color
   end
 
+  def size=(new_color)
+    @color=new_color
+  end
 
 end
