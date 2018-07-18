@@ -16,6 +16,14 @@ class Shoe
     @size
   end
   
+  def material
+    @material
+  end
+  
+  def condition
+    @condition
+  end
+  
   def brand=(new_brand)
     @brand=new_brand
   end
