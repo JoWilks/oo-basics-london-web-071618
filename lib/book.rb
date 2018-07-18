@@ -7,4 +7,7 @@ class Book
     # @genre = genre
   end
 
+  def title
+    @title
+  end
 end
