@@ -12,6 +12,6 @@ class Book
   end
   
   def author
-    @title
+    @author
   end
 end
