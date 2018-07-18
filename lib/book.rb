@@ -10,4 +10,8 @@ class Book
   def title
     @title
   end
+  
+  def author
+    @title
+  end
 end
